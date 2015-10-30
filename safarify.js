@@ -13,7 +13,8 @@ function safarify(){
     	"width":"1px",
     	"display":"table",
     	"height":"1px",
-    	"box-shadow": "0px 10px 20px 5px rgba(0,0,0,.6)"
+    	"box-shadow": "0px 10px 20px 5px rgba(0,0,0,.6)",
+    	"line-height": "1px",
     };
     var stylesBrowser = {
     	"width":"100%"
