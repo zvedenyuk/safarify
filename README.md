@@ -11,10 +11,6 @@ The script uses jQuery. Include it as well as the script file. Add these lines t
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="safarify/js.js"></script>
 ```
-Also, don't forget to link styles:
-```html
-<link href="safarify/style.css" rel="stylesheet" type="text/css">
-```
 
 ## Use
 All you need to do is just add `class="safarify"` to the image you want to safarify
