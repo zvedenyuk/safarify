@@ -2,7 +2,6 @@ $(document).ready(function() {
 	$(".safarify").wrap('<div class="safarifyContainer"></div>');
 	$(".safarifyContainer").prepend('<img class="safarifyBrowser" src="safarify/safarifyBrowser.png" />');
     var stylesContainer = {
-    	"float":"left",
     	"width":"1px",
     	"display":"table",
     	"height":"1px",
