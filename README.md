@@ -1,7 +1,7 @@
 # Safarify
 A small but cool script wraps website screenshots into browser windows
 
-Demo: http://44px.ru/labs/safarify/demo.html
+Demo: http://emdigital.ru/labs/demos/safarify/demo.html
 
 ## Setup
 
